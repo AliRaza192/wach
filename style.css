@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(99, 101, 250);
+    text-align: center;
+    padding-top: 16%;
+}
+
+h1{
+    color: rgb(20, 150, 190);
+    display: inline-block;
+    width: 100px;
+    background-color: white
+}
